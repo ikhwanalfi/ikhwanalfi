@@ -3,8 +3,8 @@
 <p><em>Mobile Development <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
 
-[![Instagram: dimasabimanyy](https://img.shields.io/instagram/follow/ikhwanalfi?style=social)](https://www.instagram.com/ikhwanalfi)
-[![GitHub dimasabimanyy](https://img.shields.io/github/followers/ikhwanalfi?label=follow&style=social)](https://github.com/ikhwanalfi/ikhwanalfi.git)
+[![Instagram: ikhwanalfi](https://img.shields.io/badge/Instagram-Follow-blue?style=social&logo=instagram)](https://www.instagram.com/ikhwanalfi)
+[![GitHub ikhwanalfi](https://img.shields.io/github/followers/ikhwanalfi?label=follow&style=social)](https://github.com/ikhwanalfi/ikhwanalfi.git)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
