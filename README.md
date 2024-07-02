@@ -3,7 +3,7 @@
 <p><em>Mobile Development <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
 
-[![Instagram: dimasabimanyy](https://img.shields.io/Instagram/follow/ikhwanalfi?style=social)](https://www.instagram.com/ikhwanalfi)
+[![Instagram: dimasabimanyy](https://img.shields.io/instagram/follow/ikhwanalfi?style=social)](https://www.instagram.com/ikhwanalfi)
 [![GitHub dimasabimanyy](https://img.shields.io/github/followers/ikhwanalfi?label=follow&style=social)](https://github.com/ikhwanalfi/ikhwanalfi.git)
 
 
