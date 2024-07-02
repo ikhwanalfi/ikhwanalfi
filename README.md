@@ -13,7 +13,7 @@
 const alfi = {
   pronouns: "he",
   code: [Dart, Kotlin, Java, PHP],
-  tools: [Flutter, Android Studio, Visual Code Studio]
+  tools: [Flutter, Android Studio, Xcode]
 }
 ```
 
