@@ -12,7 +12,7 @@
 ```javascript
 const alfi = {
   pronouns: "he",
-  code: [Dart, Kotlin],
+  code: [Dart, Kotlin, ionic],
   tools: [Flutter, Android Studio, Xcode, Visual Stidio Code]
 }
 ```
