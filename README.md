@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ikhwan alfi! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
-<p><em>Mobile Development <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
+<p><em>Mobile Developer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
 
 [![Instagram: ikhwanalfi](https://img.shields.io/badge/Instagram-Follow-blue?style=social&logo=instagram)](https://www.instagram.com/ikhwanalfi)
